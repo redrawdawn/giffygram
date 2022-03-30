@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "name": "Jeff",
+      "id": 1
+    },
+    {
+      "name": "Jeff",
+      "id": 2
+    },
+    {
+      "name": "Bryan",
+      "email": "bryan@so.com",
+      "id": 3
+    },
+    {
+      "name": "Bob",
+      "email": "bob@bob.com",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "title": "CSS be like",
+      "imageURL": "https://i.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.webp",
+      "description": "no comment",
+      "userId": 1,
+      "timestamp": 1647544956536,
+      "id": 5
+    },
+    {
+      "title": "Hello there",
+      "imageURL": "https://media.giphy.com/media/SUtKUblVAvwMkTvaiT/giphy.gif",
+      "description": "hey",
+      "userId": 1,
+      "timestamp": 1647545562032,
+      "id": 6
+    },
+    {
+      "title": "Salad",
+      "imageURL": "https://media.giphy.com/media/l4FGxA2WdhH8K9qEg/giphy.gif",
+      "description": "Eat healthy ya'll!!",
+      "userId": 1,
+      "timestamp": 1647545752360,
+      "id": 7
+    },
+    {
+      "title": "Banana time",
+      "imageURL": "https://media.giphy.com/media/n1mNS67yQhtzzAN5H3/giphy.gif",
+      "description": "Mr. Banana man is here!",
+      "userId": 3,
+      "timestamp": 1647545932600,
+      "id": 8
+    },
+    {
+      "title": "",
+      "imageURL": "",
+      "description": "",
+      "userId": 4,
+      "timestamp": 1648665106570,
+      "id": 9
+    },
+    {
+      "title": "",
+      "imageURL": "",
+      "description": "",
+      "userId": 4,
+      "timestamp": 1648665106946,
+      "id": 10
+    }
+  ],
+  "like": []
+}
